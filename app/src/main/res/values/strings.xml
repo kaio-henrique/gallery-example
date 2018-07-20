@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalleryEX</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_content">Imagens da Galeria</string>
+</resources>

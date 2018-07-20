@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e2e84</color>
+    <color name="colorPrimaryDark">#172363</color>
+    <color name="colorAccent">#fae52a</color>
+    <color name="background_for_gallery">#fafafa</color>
+</resources>
