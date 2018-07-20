@@ -1,1 +1,3 @@
 # Gallery Example - Project
+
+## Usages
