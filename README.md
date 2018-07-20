@@ -1,1 +1,1 @@
-"# Gallery Example - Project" 
+# Gallery Example - Project
